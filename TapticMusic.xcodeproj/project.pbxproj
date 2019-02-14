@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		881B97071DDF847C005736B3 /* 1-01 달고나.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 881B97061DDF847C005736B3 /* 1-01 달고나.mp3 */; };
+		881B97091DDF8480005736B3 /* [MP3] BTS – Save ME (Special Album).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 881B97081DDF8480005736B3 /* [MP3] BTS – Save ME (Special Album).mp3 */; };
 		887A6E181DDF5BB700528B9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887A6E171DDF5BB700528B9C /* AppDelegate.swift */; };
 		887A6E1A1DDF5BB700528B9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887A6E191DDF5BB700528B9C /* ViewController.swift */; };
 		887A6E1D1DDF5BB700528B9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 887A6E1B1DDF5BB700528B9C /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 		887A6E251DDF5BB700528B9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 887A6E231DDF5BB700528B9C /* LaunchScreen.storyboard */; };
 		887A6E301DDF5BB800528B9C /* TapticMusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887A6E2F1DDF5BB800528B9C /* TapticMusicTests.swift */; };
 		887A6E3B1DDF5BB800528B9C /* TapticMusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887A6E3A1DDF5BB800528B9C /* TapticMusicUITests.swift */; };
+		887A6E491DDF61A900528B9C /* cover53.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 887A6E481DDF61A900528B9C /* cover53.jpg */; };
+		887A6E4B1DDF62A500528B9C /* 7f0c8aadd28d54f1cbceaf9de8d06c99.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 887A6E4A1DDF62A500528B9C /* 7f0c8aadd28d54f1cbceaf9de8d06c99.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		881B97061DDF847C005736B3 /* 1-01 달고나.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "1-01 달고나.mp3"; sourceTree = "<group>"; };
+		881B97081DDF8480005736B3 /* [MP3] BTS – Save ME (Special Album).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "[MP3] BTS – Save ME (Special Album).mp3"; sourceTree = "<group>"; };
 		887A6E141DDF5BB700528B9C /* TapticMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TapticMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		887A6E171DDF5BB700528B9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		887A6E191DDF5BB700528B9C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +55,8 @@
 		887A6E361DDF5BB800528B9C /* TapticMusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TapticMusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		887A6E3A1DDF5BB800528B9C /* TapticMusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapticMusicUITests.swift; sourceTree = "<group>"; };
 		887A6E3C1DDF5BB800528B9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		887A6E481DDF61A900528B9C /* cover53.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cover53.jpg; sourceTree = "<group>"; };
+		887A6E4A1DDF62A500528B9C /* 7f0c8aadd28d54f1cbceaf9de8d06c99.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7f0c8aadd28d54f1cbceaf9de8d06c99.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +110,11 @@
 				887A6E171DDF5BB700528B9C /* AppDelegate.swift */,
 				887A6E191DDF5BB700528B9C /* ViewController.swift */,
 				887A6E1B1DDF5BB700528B9C /* Main.storyboard */,
+				887A6E4A1DDF62A500528B9C /* 7f0c8aadd28d54f1cbceaf9de8d06c99.jpeg */,
+				881B97081DDF8480005736B3 /* [MP3] BTS – Save ME (Special Album).mp3 */,
+				881B97061DDF847C005736B3 /* 1-01 달고나.mp3 */,
 				887A6E211DDF5BB700528B9C /* Assets.xcassets */,
+				887A6E481DDF61A900528B9C /* cover53.jpg */,
 				887A6E231DDF5BB700528B9C /* LaunchScreen.storyboard */,
 				887A6E261DDF5BB700528B9C /* Info.plist */,
 				887A6E1E1DDF5BB700528B9C /* TapticMusic.xcdatamodeld */,
@@ -196,7 +208,7 @@
 				TargetAttributes = {
 					887A6E131DDF5BB700528B9C = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 5AKLERAMJ2;
+						DevelopmentTeam = 5Y286T46P4;
 						ProvisioningStyle = Automatic;
 					};
 					887A6E2A1DDF5BB800528B9C = {
@@ -238,8 +250,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				881B97091DDF8480005736B3 /* [MP3] BTS – Save ME (Special Album).mp3 in Resources */,
 				887A6E251DDF5BB700528B9C /* LaunchScreen.storyboard in Resources */,
+				887A6E4B1DDF62A500528B9C /* 7f0c8aadd28d54f1cbceaf9de8d06c99.jpeg in Resources */,
+				887A6E491DDF61A900528B9C /* cover53.jpg in Resources */,
 				887A6E221DDF5BB700528B9C /* Assets.xcassets in Resources */,
+				881B97071DDF847C005736B3 /* 1-01 달고나.mp3 in Resources */,
 				887A6E1D1DDF5BB700528B9C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -417,10 +433,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5AKLERAMJ2;
+				DEVELOPMENT_TEAM = 5Y286T46P4;
 				INFOPLIST_FILE = TapticMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Joonwoo.TapticMusic;
+				PRODUCT_BUNDLE_IDENTIFIER = Joonwoo.TapticMusicOld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -430,10 +447,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5AKLERAMJ2;
+				DEVELOPMENT_TEAM = 5Y286T46P4;
 				INFOPLIST_FILE = TapticMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Joonwoo.TapticMusic;
+				PRODUCT_BUNDLE_IDENTIFIER = Joonwoo.TapticMusicOld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -516,6 +534,7 @@
 				887A6E411DDF5BB800528B9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		887A6E421DDF5BB800528B9C /* Build configuration list for PBXNativeTarget "TapticMusicTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +543,7 @@
 				887A6E441DDF5BB800528B9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		887A6E451DDF5BB800528B9C /* Build configuration list for PBXNativeTarget "TapticMusicUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +552,7 @@
 				887A6E471DDF5BB800528B9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
